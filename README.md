@@ -63,6 +63,21 @@ a.	Prediction: I believe there is a slight negative correlation between a nation
 
 Question 1: College Enrollment Rates and Obesity Rates from 1992-2022 across 12 countires
 
+|   countrycode    |     countryname          |     enrollment   rate gross %    |     obesity   rate %      |     Income   levels          |   Duplicate Check   |
+|-----------------------|-----------------------------|----------------------------------|-------------------------|------------------------------|-------------|
+|     DOM               |     Dominican   Republic    |     51.64                        |     18.71               |     Upper   middle income  |     Unique   |            
+|     FRA               |     France                  |     58.09                        |     12.03               |     High   income          |     Unique   |            
+|     CAN               |     Canada                  |     75.20                        |     22.73               |     High   income          |     Unique   |             
+|     COL               |     Colombia                |     36.39                        |     15.23               |     Upper   middle income  |     Unique   |             
+|     COG               |     Congo,   Rep.           |     5.34                         |     5.88                |     Lower   middle income   |     Unique  |             
+|     ZAF               |     South   Africa          |     20.48                        |     23.63               |     Upper   middle income   |     Unique  |            
+|     USA               |     United   States         |     88.75                        |     32.77               |     High   income           |     Unique  |             
+|     GHA               |     Ghana                   |     9.55                         |     7.84                |     Lower   middle income   |     Unique  |             
+|     IND               |     India                   |     16.75                        |     3.36                |     Lower   middle income   |     Unique  |            
+|     MLI               |     Mali                    |     2.73                         |     5.72                |     Low   income            |     Unique  |            
+|     AFG               |     Afghanistan             |     4.05                         |     8.17                |     Low   income            |     Unique  |            
+|     NGA               |     Nigeria                 |     8.55                         |     6.77                |     Lower   middle income   |     Unique  |             
+
 
 
 Question 2: Average Mortality Rate and Income Levels from 1992-2022 across 12 countries 

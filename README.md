@@ -3,7 +3,7 @@ This is a repository of the key visualizations and tech tools I used in the Cost
 
 ## Project Description and Objective 
 
-I am working with the ==World Health Organization== to help them improve healthcare outcomes around the world. Per the World Health Organization website, this is a United Nations agency that connects nations, partners, and people to promote health, keep the world safe, and serve the vulnerable - so people can attain the highest level of health. The purpose of this organization is to lead global efforts to expand universal health coverage, direct and coordinate the world’s response to health emergencies, and promote healthier lives for all humans. 
+I am working with the World Health Organization to help them improve healthcare outcomes around the world. Per the World Health Organization website, this is a United Nations agency that connects nations, partners, and people to promote health, keep the world safe, and serve the vulnerable - so people can attain the highest level of health. The purpose of this organization is to lead global efforts to expand universal health coverage, direct and coordinate the world’s response to health emergencies, and promote healthier lives for all humans. 
 The World Health Organization wants to see how socioeconomic factors impact healthcare outcomes. For this project we will focus on, 12 countries of different income levels to study trends between socioeconomic factors and healthcare outcomes.
 
 The purpose of this project is to analyze 12 different countries' health outcomes and socioeconomic factors to explore connections between health outcomes and socioeconomic status. This project includes the years of 1992-2022. (i.e. How do income levels affect mortality rates?) The countries included in this project are split into different income levels: 3 high-income countries, three low-income countries, three lower-middle-income countries, and three upper-middle-income countries. The following countries are included in this project. 
@@ -63,7 +63,7 @@ a.	Prediction: I believe there is a slight negative correlation between a nation
 
 Question 1: College Enrollment Rates and Obesity Rates from 1992-2022 across 12 countires
 
-|   countrycode    |     countryname          |     enrollment   rate gross %    |     obesity   rate %      |     Income   levels          |   Duplicate Check   |
+|   **countrycode**    |     **countryname**         |     **enrollment   rate gross %**    |     **obesity   rate %**     |     **Income   levels**          |   **Duplicate Check**   |
 |-----------------------|-----------------------------|----------------------------------|-------------------------|------------------------------|-------------|
 |     DOM               |     Dominican   Republic    |     51.64                        |     18.71               |     Upper   middle income  |     Unique   |            
 |     FRA               |     France                  |     58.09                        |     12.03               |     High   income          |     Unique   |            
@@ -80,9 +80,39 @@ Question 1: College Enrollment Rates and Obesity Rates from 1992-2022 across 12 
 
 
 
-Question 2: Average Mortality Rate and Income Levels from 1992-2022 across 12 countries 
+Question 2: Average Mortality Rate and Income Levels from 1992-2022 across 12 countries
+
+|     country_code    |     country   name          |     income   level           |     average   mortality rate (per 1000)    |     Duplicate   Check    |
+|---------------------|-----------------------------|------------------------------|--------------------------------------------|--------------------------|
+|     AFG             |     Afghanistan             |     Low   income             |     127.37                                 |     Unique               |
+|     FRA             |     France                  |     High   income            |     22.74                                  |     Unique               |
+|     GHA             |     Ghana                   |     Lower   middle income    |     107.58                                 |     Unique               |
+|     NGA             |     Nigeria                 |     Lower   middle income    |     172.81                                 |     Unique               |
+|     CAN             |     Canada                  |     High   income            |     20.43                                  |     Unique               |
+|     MLI             |     Mali                    |     Low   income             |     151.16                                 |     Unique               |
+|     COG             |     Congo,   Rep.           |     Lower   middle income    |     122.05                                 |     Unique               |
+|     USA             |     United   States         |     High   income            |     29.26                                  |     Unique               |
+|     COL             |     Colombia                |     Upper   middle income    |     48.93                                  |     Unique               |
+|     DOM             |     Dominican   Republic    |     Upper   middle income    |     64.64                                  |     Unique               |
+|     IND             |     India                   |     Lower   middle income    |     91.43                                  |     Unique               |
+|     ZAF             |     South   Africa          |     Upper   middle income    |     121.14                                 |     Unique               |
 
 Question 3: Health Expenditure and Life Expectancy from 1992-2022 across 12 countries 
+
+| **    country_code   ** | **    country_name   **   | **    life expectancy value   ** | **    current health expenditure % (of GDP)   ** | **    Duplicate Check   ** |
+|---------------|---------------------------|----------------------|--------------------------------------------------|----------------------------|
+|     FRA       |     France                |     73.97            |     10.77                               |     Unique                 |
+|     MLI       |     Mali                  |     61.59                        |     4.58                                         |     Unique                 |
+|     USA                 |     United States         |     71.05                        |     15.45                                        |     Unique                 |
+|     AFG                 |     Afghanistan           |     60.25                        |     10.22                                        |     Unique                 |
+|     NGA                 |     Nigeria               |     62.37                        |     3.62                                         |     Unique                 |
+|     COG                 |     Congo, Rep.           |     61.41                        |     2.01                                         |     Unique                 |
+|     GHA                 |     Ghana                 |     63.64                        |     3.70                                         |     Unique                 |
+|     CAN                 |     Canada                |     73.80                        |     9.92                                         |     Unique                 |
+|     COL                 |     Colombia              |     71.25                        |     6.74                                         |     Unique                 |
+|     DOM                 |     Dominican Republic    |     70.44                        |     5.18                                         |     Unique                 |
+|     IND                 |     India                 |     65.43                        |     3.58                                         |     Unique                 |
+|     ZAF                 |     South Africa          |     61.44                        |     8.33                                         |     Unique                 |
 
 Question 4: Unemployment Rate Impact on Suicide Mortality Rates and raised BP rates comparing 1992-2002 to 2012-2022 across 12 countries 
 

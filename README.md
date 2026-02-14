@@ -116,16 +116,132 @@ Question 3: Health Expenditure and Life Expectancy from 1992-2022 across 12 coun
 
 Question 4: Unemployment Rate Impact on Suicide Mortality Rates and raised BP rates comparing 1992-2002 to 2012-2022 across 12 countries 
 
+1. Set 1: Represents 1992 to 2002
+2. Set 2: Represents 2012 to 2022
+
+|     country and year key        |     country               |     unemployment rate    |     blood pressure rate    |     suicide mortality rate    |     Unique Key    |
+|---------------------------------|---------------------------|--------------------------|----------------------------|-------------------------------|-------------------|
+|     Afghanistan Set 2           |     Afghanistan           |     11.07                |     33.05                  |     4.01                      |     Unique        |
+|     Canada Set 2                |     Canada                |     6.93                 |     9.93                   |     12.32                     |     Unique        |
+|     Colombia Set 2              |     Colombia              |     9.94                 |     22.93                  |     4.05                      |     Unique        |
+|     Congo Set 2                 |     Congo                 |     19.66                |     35.60                  |     7.21                      |     Unique        |
+|     Dominican Republic Set 2    |     Dominican Republic    |     6.98                 |     38.61                  |     5.67                      |     Unique        |
+|     France Set 2                |     France                |     9.43                 |     24.73                  |     15.62                     |     Unique        |
+|     Ghana Set 2                 |     Ghana                 |     5.14                 |     29.19                  |     7.17                      |     Unique        |
+|     India Set 2                 |     India                 |     5.27                 |     27.13                  |     12.76                     |     Unique        |
+|     Mali Set 2                  |     Mali                  |     6.43                 |     29.20                  |     4.28                      |     Unique        |
+|     Nigeria Set 2               |     Nigeria               |     6.49                 |     31.49                  |     3.75                      |     Unique        |
+|     South Africa Set 2          |     South Africa          |     26.52                |     34.91                  |     24.18                     |     Unique        |
+|     United States Set 2         |     United States         |     5.75                 |     16.68                  |     14.84                     |     Unique        |
+|     Afghanistan Set 1           |     Afghanistan           |     11.70                |     33.05                  |     4.97                      |     Unique        |
+|     Canada Set 1                |     Canada                |     8.95                 |     23.06                  |     12.09                     |     Unique        |
+|     Colombia Set 1              |     Colombia              |     13.40                |     26.88                  |     4.91                      |     Unique        |
+|     Congo Set 1                 |     Congo                 |     19.98                |     36.87                  |     12.68                     |     Unique        |
+|     Dominican Republic Set 1    |     Dominican Republic    |     7.21                 |     38.38                  |     3.97                      |     Unique        |
+|     France Set 1                |     France                |     11.25                |     32.73                  |     19.99                     |     Unique        |
+|     Ghana Set 1                 |     Ghana                 |     7.81                 |     34.00                  |     5.72                      |     Unique        |
+|     India Set 1                 |     India                 |     5.26                 |     28.11                  |     16.53                     |     Unique        |
+|     Mali Set 1                  |     Mali                  |     4.34                 |     32.39                  |     4.73                      |     Unique        |
+|     Nigeria Set 1               |     Nigeria               |     4.01                 |     33.52                  |     4.87                      |     Unique        |
+|     South Africa Set 1          |     South Africa          |     30.41                |     34.18                  |     23.36                     |     Unique        |
+|     United States Set 1         |     United States         |     5.44                 |     20.89                  |     11.47                     |     Unique        |
+
+
+
 Question 5: College Enrollment and HIV Incidence Rates comparing 2005-2012 to 2013-2020 across 12 countries (excluding Canada and France) 
+
+1. Set 1 : Years 2005-2012
+2. Set 2: Years 2013-2020
+
+|     country and year key        |     country               |     unemployment rate    |     blood pressure rate    |     suicide mortality rate    |     Unique Key    |
+|---------------------------------|---------------------------|--------------------------|----------------------------|-------------------------------|-------------------|
+|     Afghanistan Set 2           |     Afghanistan           |     11.07                |     33.05                  |     4.01                      |     Unique        |
+|     Canada Set 2                |     Canada                |     6.93                 |     9.93                   |     12.32                     |     Unique        |
+|     Colombia Set 2              |     Colombia              |     9.94                 |     22.93                  |     4.05                      |     Unique        |
+|     Congo Set 2                 |     Congo                 |     19.66                |     35.60                  |     7.21                      |     Unique        |
+|     Dominican Republic Set 2    |     Dominican Republic    |     6.98                 |     38.61                  |     5.67                      |     Unique        |
+|     France Set 2                |     France                |     9.43                 |     24.73                  |     15.62                     |     Unique        |
+|     Ghana Set 2                 |     Ghana                 |     5.14                 |     29.19                  |     7.17                      |     Unique        |
+|     India Set 2                 |     India                 |     5.27                 |     27.13                  |     12.76                     |     Unique        |
+|     Mali Set 2                  |     Mali                  |     6.43                 |     29.20                  |     4.28                      |     Unique        |
+|     Nigeria Set 2               |     Nigeria               |     6.49                 |     31.49                  |     3.75                      |     Unique        |
+|     South Africa Set 2          |     South Africa          |     26.52                |     34.91                  |     24.18                     |     Unique        |
+|     United States Set 2         |     United States         |     5.75                 |     16.68                  |     14.84                     |     Unique        |
+|     Afghanistan Set 1           |     Afghanistan           |     11.70                |     33.05                  |     4.97                      |     Unique        |
+|     Canada Set 1                |     Canada                |     8.95                 |     23.06                  |     12.09                     |     Unique        |
+|     Colombia Set 1              |     Colombia              |     13.40                |     26.88                  |     4.91                      |     Unique        |
+|     Congo Set 1                 |     Congo                 |     19.98                |     36.87                  |     12.68                     |     Unique        |
+|     Dominican Republic Set 1    |     Dominican Republic    |     7.21                 |     38.38                  |     3.97                      |     Unique        |
+|     France Set 1                |     France                |     11.25                |     32.73                  |     19.99                     |     Unique        |
+|     Ghana Set 1                 |     Ghana                 |     7.81                 |     34.00                  |     5.72                      |     Unique        |
+|     India Set 1                 |     India                 |     5.26                 |     28.11                  |     16.53                     |     Unique        |
+|     Mali Set 1                  |     Mali                  |     4.34                 |     32.39                  |     4.73                      |     Unique        |
+|     Nigeria Set 1               |     Nigeria               |     4.01                 |     33.52                  |     4.87                      |     Unique        |
+|     South Africa Set 1          |     South Africa          |     30.41                |     34.18                  |     23.36                     |     Unique        |
+|     United States Set 1         |     United States         |     5.44                 |     20.89                  |     11.47                     |     Unique        |
+
 
 Question 6: Income Levels affect on mortality rates and life expectancy from 1992-2022 across 12 countries 
 
-Question 7: Health Expenditure, HIV Incidence rates difference across income groups comparing 2005-2013 to 2014-2022 across 12 countries (excluding Canada and France) 
+|     country_code    |     country name          |     Life Expectancy    |     Mortality Rate (per 1000 live births)    |     Income Levels          |     Duplicate Check    |
+|---------------------|---------------------------|------------------------|----------------------------------------------|----------------------------|------------------------|
+|     CAN             |     Canada                |     73.80              |     20.43                                    |     High income            |     Unique             |
+|     NGA             |     Nigeria               |     62.37              |     172.81                                   |     Lower middle income    |     Unique             |
+|     FRA             |     France                |     73.97              |     22.74                                    |     High income            |     Unique             |
+|     AFG             |     Afghanistan           |     60.25              |     127.37                                   |     Low income             |     Unique             |
+|     MLI             |     Mali                  |     61.59              |     151.16                                   |     Low income             |     Unique             |
+|     USA             |     United States         |     71.05              |     29.26                                    |     High income            |     Unique             |
+|     COL             |     Colombia              |     71.25              |     48.93                                    |     Upper middle income    |     Unique             |
+|     COG             |     Congo, Rep.           |     61.41              |     122.05                                   |     Lower middle income    |     Unique             |
+|     DOM             |     Dominican Republic    |     70.44              |     64.64                                    |     Upper middle income    |     Unique             |
+|     GHA             |     Ghana                 |     63.64              |     107.58                                   |     Lower middle income    |     Unique             |
+|     IND             |     India                 |     65.43              |     91.43                                    |     Lower middle income    |     Unique             |
+|     ZAF             |     South Africa          |     61.44              |     121.14                                   |     Upper middle income    |     Unique             |
+
+Question 7: Health Expenditure, HIV Incidence rates difference across income groups comparing 2005-2013 to 2014-2022 across 12 countries (excluding Canada and France)
+
+•	Set 1: 2005-2013
+•	Set 2: 2014-2020
+
+|     country name and year key    |     country name          |     Health Expenditure (% of GDP)    |     HIV Incidence Rates (per 1000 uninfected people)    |     Income Levels          |     Unique Key    |
+|----------------------------------|---------------------------|--------------------------------------|---------------------------------------------------------|----------------------------|-------------------|
+|     Colombia Set 2               |     Colombia              |     7.54                             |     0.19                                                |     Upper middle income    |     Unique        |
+|     Nigeria Set 2                |     Nigeria               |     3.41                             |     0.50                                                |     Lower middle income    |     Unique        |
+|     Mali Set 2                   |     Mali                  |     3.94                             |     0.33                                                |     Low income             |     Unique        |
+|     United States Set 2          |     United States         |     16.65                            |     0.13                                                |     High income            |     Unique        |
+|     Afghanistan Set 2            |     Afghanistan           |     11.91                            |     0.04                                                |     Low income             |     Unique        |
+|     Congo, Rep. Set 2            |     Congo, Rep.           |     2.29                             |     1.90                                                |     Lower middle income    |     Unique        |
+|     Ghana Set 2                  |     Ghana                 |     3.74                             |     0.76                                                |     Lower middle income    |     Unique        |
+|     South Africa Set 2           |     South Africa          |     8.81                             |     6.19                                                |     Upper middle income    |     Unique        |
+|     Dominican Republic Set 2     |     Dominican Republic    |     5.81                             |     0.34                                                |     Upper middle income    |     Unique        |
+|     Colombia Set 1               |     Colombia              |     6.74                             |     0.22                                                |     Upper middle income    |     Unique        |
+|     Afghanistan Set 1            |     Afghanistan           |     9.38                             |     0.03                                                |     Low income             |     Unique        |
+|     South Africa Set 1           |     South Africa          |     8.28                             |     9.69                                                |     Upper middle income    |     Unique        |
+|     Dominican Republic Set 1     |     Dominican Republic    |     5.03                             |     0.40                                                |     Upper middle income    |     Unique        |
+|     Nigeria Set 1                |     Nigeria               |     3.70                             |     0.76                                                |     Lower middle income    |     Unique        |
+|     Mali Set 1                   |     Mali                  |     4.73                             |     0.58                                                |     Low income             |     Unique        |
+|     Congo, Rep. Set 1            |     Congo, Rep.           |     1.91                             |     1.78                                                |     Lower middle income    |     Unique        |
+|     Ghana Set 1                  |     Ghana                 |     4.12                             |     1.02                                                |     Lower middle income    |     Unique        |
+|     United States Set 1          |     United States         |     15.61                            |     0.14                                                |     High income            |     Unique        |
+|     India Set 1                  |     India                 |     3.50                             |     0.10                                                |     Lower middle income    |     Unique        |
+|     India Set 2                  |     India                 |     3.27                             |     0.05                                                |     Lower middle income    |     Unique        |
 
 Question 8: Income Levels impact on raised BP rates and Obesity Rates from 1992-2022 across 12 countires 
 
-
-
+|     country_code    |     country_name          |     Obesity Prevelance Rates     |     Raised Blood Pressure Rate    |     Income Levels          |     Duplicate Check    |
+|---------------------|---------------------------|----------------------------------|-----------------------------------|----------------------------|------------------------|
+|     AFG             |     Afghanistan           |     8.17                         |     33.05                         |     Low income             |     Unique             |
+|     CAN             |     Canada                |     22.73                        |     23.06                         |     High income            |     Unique             |
+|     COL             |     Colombia              |     15.23                        |     26.88                         |     Upper middle income    |     Unique             |
+|     DOM             |     Dominican Republic    |     18.71                        |     38.38                         |     Upper middle income    |     Unique             |
+|     FRA             |     France                |     12.03                        |     32.73                         |     High income            |     Unique             |
+|     GHA             |     Ghana                 |     7.84                         |     34.00                         |     Lower middle income    |     Unique             |
+|     NGA             |     Nigeria               |     6.77                         |     33.52                         |     Lower middle income    |     Unique             |
+|     ZAF             |     South Africa          |     23.63                        |     34.18                         |     Upper middle income    |     Unique             |
+|     USA             |     United States         |     32.77                        |     20.89                         |     High income            |     Unique             |
+|     IND             |     India                 |     3.36                         |     28.11                         |     Lower middle income    |     Unique             |
+|     COG             |     Congo, Rep.           |     5.96                         |     36.87                         |     Lower middle income    |     Unique             |
+|     MLI             |     Mali                  |     5.72                         |     32.39                         |     Low income             |     Unique             |
 
 
 

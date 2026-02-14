@@ -99,7 +99,7 @@ Question 2: Average Mortality Rate and Income Levels from 1992-2022 across 12 co
 
 Question 3: Health Expenditure and Life Expectancy from 1992-2022 across 12 countries 
 
-| **    country_code   ** | **    country_name   **   | **    life expectancy value   ** | **    current health expenditure % (of GDP)   ** | **    Duplicate Check   ** |
+| **country_code** | **country_name**   | **life expectancy value** | **current health expenditure % (of GDP)** | **Duplicate Check** |
 |---------------|---------------------------|----------------------|--------------------------------------------------|----------------------------|
 |     FRA       |     France                |     73.97            |     10.77                               |     Unique                 |
 |     MLI       |     Mali                  |     61.59                        |     4.58                                         |     Unique                 |

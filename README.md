@@ -22,7 +22,8 @@ The purpose of this project is to analyze 12 different countries' health outcome
 
  ## Dataset Information and Limitations 
 
-World Bank Dataset Integrity and Credibility 
+**World Bank Dataset Integrity and Credibility** 
+
 1. Quote from the World Bank website “We ensure that our data work and products are of the highest quality by using standards, methodologies, sources, definitions, and classifications that are internationally accepted.”
 2. Furthermore, the World Bank organization utilizes the General Data Dissemination System (GDDS) and Data Quality Assessment Framework (DQAF). The GDDS framework assesses different national statistical systems and encourages countries to improve their statistical systems over time. This framework also aides in distributing statistical information to the participating countries.
 3. Explanation of Dataset: This dataset explores health data from several different countries from (1962-2022). This dataset utilizes a combo of healthcare factors and socioeconomic factors as indicators. Some of the healthcare indicators included in this dataset are mortality rates, HIV Incidence rates, overweight and underweight prevalence, and raised blood pressure rates. Some of the socioeconomic factors included in this dataset are current healthcare expenditure, enrollment rate percentages, and population growth. This dataset utilizes a lower bound, estimate, and upper bound as measurements of the indicators. Overall, this dataset looks at different global health and population trends from several different countries. This dataset includes different datasets with factors including reproductive health, nutrition, education, immunization, and diseases from over 200 countries.

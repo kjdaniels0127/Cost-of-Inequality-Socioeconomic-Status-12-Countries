@@ -1,9 +1,51 @@
 # Cost-of-Inequality-Socioeconomic-Status-12-Countries
 This is a repository of the key visualizations and tech tools I used in the Cost of Inequality: Socioeconomic Status of 12 countries. In addition, the key data insights that I gleaned from analyzing the connection between socioeconomic status and different health outcomes.
 
+## Project Description and Objective 
+
+I am working with the World Health Organization to help them improve healthcare outcomes around the world. Per the World Health Organization website, this is a United Nations agency that connects nations, partners, and people to promote health, keep the world safe, and serve the vulnerable - so people can attain the highest level of health. The purpose of this organization is to lead global efforts to expand universal health coverage, direct and coordinate the world’s response to health emergencies, and promote healthier lives for all humans. 
+The World Health Organization wants to see how socioeconomic factors impact healthcare outcomes. For this project we will focus on, 12 countries of different income levels to study trends between socioeconomic factors and healthcare outcomes.
+
+The purpose of this project is to analyze 12 different countries' health outcomes and socioeconomic factors to explore connections between health outcomes and socioeconomic status. This project includes the years of 1992-2022. (i.e. How do income levels affect mortality rates?) The countries included in this project are split into different income levels: 3 high-income countries, three low-income countries, three lower-middle-income countries, and three upper-middle-income countries. The following countries are included in this project. 
+**High Income:** Canada, United States of America, and France
+**Low Income:** Mali and Afghanistan
+**Lower middle income:** Ghana, Congo, India, and Nigeria
+**Upper middle income:** Dominican Republic, South Africa, and Colombia
+
+## Tools and Tech used in this project 
+
+Excel: Used to pull the data from the World Bank Organization site. 
+SQL: 
+Tableau: Used to create the data visualizations and charts comparing different healthcare outcomes with socioeconomic factors. 
+Chat GPT: For prepping SQL queries and assisting in coming up with new queries to use.
 
 
-## Here's my visualizations for The Cost of Inequality: Connection between socioeconomic status and healthcare outcomes for 12 countries.
+ ## Dataset Information and Limitations 
+
+World Bank Dataset Integrity and Credibility 
+1. Quote from the World Bank website “We ensure that our data work and products are of the highest quality by using standards, methodologies, sources, definitions, and classifications that are internationally accepted.”
+2. Furthermore, the World Bank organization utilizes the General Data Dissemination System (GDDS) and Data Quality Assessment Framework (DQAF). The GDDS framework assesses different national statistical systems and encourages countries to improve their statistical systems over time. This framework also aides in distributing statistical information to the participating countries.
+3. Explanation of Dataset: This dataset explores health data from several different countries from (1962-2022). This dataset utilizes a combo of healthcare factors and socioeconomic factors as indicators. Some of the healthcare indicators included in this dataset are mortality rates, HIV Incidence rates, overweight and underweight prevalence, and raised blood pressure rates. Some of the socioeconomic factors included in this dataset are current healthcare expenditure, enrollment rate percentages, and population growth. This dataset utilizes a lower bound, estimate, and upper bound as measurements of the indicators. Overall, this dataset looks at different global health and population trends from several different countries. This dataset includes different datasets with factors including reproductive health, nutrition, education, immunization, and diseases from over 200 countries.
+
+**Dataset Limitations** 
+
+1. Late enrollment, early enrollment, and repetition can lead to college enrollment rates being above 100%
+2. Health Expenditure Data: 2000-2019
+3. BP Data: No raised BP data beyond 2019
+4. Nigeria only has reported college enrollment data for 2005,2010, and 2011
+5. Canada and France are excluded from HIV Incidence rates questions
+
+
+
+
+
+
+
+
+
+
+
+### Here's my visualizations for The Cost of Inequality: Connection between socioeconomic status and healthcare outcomes for 12 countries.
 
 **Country Identifier Legend for the HIV Incidence Rates, health expenditure %, and income levels**
 ![Country Code Identifier as Country Names](https://github.com/user-attachments/assets/6c9bce1a-5185-4b37-a63d-88312ec83d7a)

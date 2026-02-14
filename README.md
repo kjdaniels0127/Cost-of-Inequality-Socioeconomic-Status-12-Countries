@@ -14,10 +14,10 @@ The purpose of this project is to analyze 12 different countries' health outcome
 
 ## Tools and Tech used in this project 
 
-Excel: Used to pull the data from the World Bank Organization site. 
-SQL: 
-Tableau: Used to create the data visualizations and charts comparing different healthcare outcomes with socioeconomic factors. 
-Chat GPT: For prepping SQL queries and assisting in coming up with new queries to use.
+1. Excel: Used to pull the data from the World Bank Organization site. 
+2. SQL: Used Basic to Intermediate Queries in this project. SELECT, FROM, Multiple Where Conditions, Aggregations, Case Logic, and Group By
+3. Tableau: Used to create the data visualizations and charts comparing different healthcare outcomes with socioeconomic factors. 
+4. Chat GPT: For prepping SQL queries and assisting in coming up with new queries to use.
 
 
  ## Dataset Information and Limitations 

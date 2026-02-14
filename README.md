@@ -20,7 +20,30 @@ The purpose of this project is to analyze 12 different countries' health outcome
 4. Chat GPT: For prepping SQL queries and assisting in coming up with new queries to use.
 
 
- ## Dataset Information and Limitations 
+## My SMART Questions and Pre-Analysis Initial Predicitons  
+
+1.	How has college enrollment affected obesity rates across countries from 1992 to 2022? 
+a.	Prediction: I would say there’s little to no correlation between college enrollment and obesity rates. I don’t think college education enrollment affects people’s diet that much. 
+2.	How has mortality rates differed across countries based on income levels from 1992 to 2022?
+a.	Prediction: I believe there’s a strong negative correlation between income levels and mortality rates. So, for instance, the lower-income nations, such as Mali, Nigeria, and Afghanistan, would have the highest mortality rates. Whereas the higher-income nations like France, Canada, and the United States of America would have the lowest mortality rates. 
+3.	Is there a correlation between life expectancy and health expenditure across countries from 1992 to 2022?
+a.	Prediction: I believe there’s a moderate positive correlation between health expenditure and life expectancy. To me, if you are spending more money on healthcare, then you are likely to have higher-quality healthcare services. However, not all of the high-income nations have universal healthcare systems where everyone can access healthcare. There are many nations like the USA, unfortunately that don’t have universal healthcare so the poor people are less likely to have quality health services which can negatively impact their life expectancy. I also believe that if you are spending less money on healthcare services, then there will be a lower life expectancy. 
+4.	How have unemployment rates impacted suicide mortality rates and raised blood pressure rates in 1992 to 2002 as compared to 2012-2022?
+a.	Prediction: I could see there being a strong positive correlation between unemployment rates and blood pressure rates. Like not having a reliable sense of income and lacking a sense of stability in life can lead to more stress. When there’s more stress there will inevitably be adverse health outcomes. With suicide mortality rates, I am not sure maybe a significant positive correlation. I think a person not having a job can really affected their self-esteem and self-worth. In extreme cases, when this person doesn’t have anything outside of their work identity they could choose instead to take their life. Perhaps, there could be factors outside of one’s employment or lack thereof that can lead someone to take their life. It’s also possible that someone could be extremely unhappy or stressed by their job and then choose to take their life. I am not sure about this one but I am very interested in exploring these correlations. I think in 2012-2022 there were higher unemployment rates than in 1992-2002. This is due to factors of just exiting the recession and people still struggling to find work and the pandemic of 2020 which negatively impact employment across industries. So I think with the higher unemployment rates there’s a slight possible chance that there are higher mortality rates and blood pressure rates. 
+5.	How did the impact of college enrollment on HIV/AIDs incidence rates shift between 2005-2012 as compared to 2013-2020 across income groups?
+a.	Prediction: I believe there is a strong negative correlation between HIV/AIDs prevalence rates and college enrollment rates. First, to be enrolled in college means you do have to be able to afford it (especially at a four-year university). If you did well academically or you performed well as an athlete, it’s possible to get financial aid that can aid with the cost. Overall, though I do feel that being at least middle class can significantly impact your chances of going to college. I also believe that the more educated you are, the more likely you are to do your homework on HIV/AIDs prevalence and take steps to protect yourself from it. Looking at 2005 to 2012 versus 2013-2022, I do believe that in 2013-2022 we say lower HIV/AIDS prevalence rates due to more education overall about STDs. I do think we will see lower HIV/AIDS prevalence rates regardless of college enrollment in 2013-2022 than in 2005-2012. 
+6.	How do a nation’s income levels correlate mortality rates and life expectancy rates from 1992 to 2022?
+a.	Prediction: I believe that a nation’s income level is moderately positively correlated with life expectancy rates. With higher income, people in the nation as a whole are more likely to have access to healthcare services, which can extend their lifespan. However, even in high-income nations, there are a great number of people who are living in poverty. Compounded by the fact that if a country doesn’t have a universal healthcare system like the USA, unfortunately. Then, people in poverty are even more likely to struggle with getting healthcare access due to legitimately living in survival mode. Though in lower-income nations, the healthcare access might not be as high-quality even if you are a rich person in that country. That can negatively impact mortality rates and life expectancy rates. 
+7.	How did the relationship between current health expenditure and HIV/AIDs prevalence differ between 2005-2013 and 2014-2022 across income-level groups?
+a.	Prediction: I believe that in 2005-2013, since that’s when HIV/AIDS prevalence came into focus, and the harm behind having HIV/AIDs, there was more money spent on HIV/AIDS programs. Countries spent more money on HIV/AIDS programs to either inform people about it or to look into healing people living with those conditions. Though it’s more likely that higher-income countries have more programs informing the public about HIV/AIDS prevalence. That can be an advantage of high-income countries over lower-income countries. In 2014-2022, when it was more stabilized, I believe countries lowered the expenditure budget on HIV/AIDS programs. However, I still do think that the more health expenditure you have in a nation the less likely the citizens of that country are going to contract HIV and AIDs. 
+8.	How do a nation’s income levels affect raised blood pressure rates and obesity rates from 1992 to 2022? 
+a.	Prediction: I believe there is a slight negative correlation between a nation’s income levels and blood pressure rates. I think that living in a high-income nation may provide more access to healthcare and health resources, which could help lower blood pressure rates. On the flipside, though, there could be more access to unhealthy food in higher-income nations. That can also impact eating habits for the consumers. Though if you are in lower-income countries, you might have more stress from struggling to get by on a budget. That can lead to higher blood pressure rates. I believe there is a slight positive correlation between a nation’s income levels and obesity rates. I think in higher-income nations, you have more access to food, and especially the unhealthy types of foods (like carbs, sugars, wheat, etc.), and this can lead to higher obesity rates. In lower-income nations, you might not have as much food readily available to you and thus won’t have as much access to unhealthy food. I’ll admit I’m also a bit unsure of the link between a nation’s income levels and obesity rates. I am excited to see what the data reveals about the link between blood pressure rates and obesity rates based on income levels. 
+
+
+
+
+
+ ## Data Preparation Stage: Dataset Information and Limitations 
 
 **World Bank Dataset Integrity and Credibility** 
 
@@ -36,6 +59,7 @@ The purpose of this project is to analyze 12 different countries' health outcome
 4. Nigeria only has reported college enrollment data for 2005,2010, and 2011
 5. Canada and France are excluded from HIV Incidence rates questions
 
+## Excel Results of Each of the Questions 
 
 
 

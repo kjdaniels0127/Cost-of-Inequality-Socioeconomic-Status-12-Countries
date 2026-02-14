@@ -3,7 +3,7 @@ This is a repository of the key visualizations and tech tools I used in the Cost
 
 ## Project Description and Objective 
 
-I am working with the World Health Organization to help them improve healthcare outcomes around the world. Per the World Health Organization website, this is a United Nations agency that connects nations, partners, and people to promote health, keep the world safe, and serve the vulnerable - so people can attain the highest level of health. The purpose of this organization is to lead global efforts to expand universal health coverage, direct and coordinate the world’s response to health emergencies, and promote healthier lives for all humans. 
+I am working with the ==World Health Organization== to help them improve healthcare outcomes around the world. Per the World Health Organization website, this is a United Nations agency that connects nations, partners, and people to promote health, keep the world safe, and serve the vulnerable - so people can attain the highest level of health. The purpose of this organization is to lead global efforts to expand universal health coverage, direct and coordinate the world’s response to health emergencies, and promote healthier lives for all humans. 
 The World Health Organization wants to see how socioeconomic factors impact healthcare outcomes. For this project we will focus on, 12 countries of different income levels to study trends between socioeconomic factors and healthcare outcomes.
 
 The purpose of this project is to analyze 12 different countries' health outcomes and socioeconomic factors to explore connections between health outcomes and socioeconomic status. This project includes the years of 1992-2022. (i.e. How do income levels affect mortality rates?) The countries included in this project are split into different income levels: 3 high-income countries, three low-income countries, three lower-middle-income countries, and three upper-middle-income countries. The following countries are included in this project. 
@@ -57,11 +57,27 @@ a.	Prediction: I believe there is a slight negative correlation between a nation
 2. Health Expenditure Data: 2000-2019
 3. BP Data: No raised BP data beyond 2019
 4. Nigeria only has reported college enrollment data for 2005,2010, and 2011
-5. Canada and France are excluded from HIV Incidence rates questions
+5. Canada and France are excluded from HIV Incidence rates questions. As there was no HIV Incidence rates data available for Canada and France 
 
-## Excel Results of Each of the Questions 
+### Excel Results of Each of the Questions 
+
+Question 1: College Enrollment Rates and Obesity Rates from 1992-2022 across 12 countires
 
 
+
+Question 2: Average Mortality Rate and Income Levels from 1992-2022 across 12 countries 
+
+Question 3: Health Expenditure and Life Expectancy from 1992-2022 across 12 countries 
+
+Question 4: Unemployment Rate Impact on Suicide Mortality Rates and raised BP rates comparing 1992-2002 to 2012-2022 across 12 countries 
+
+Question 5: College Enrollment and HIV Incidence Rates comparing 2005-2012 to 2013-2020 across 12 countries (excluding Canada and France) 
+
+Question 6: Income Levels affect on mortality rates and life expectancy from 1992-2022 across 12 countries 
+
+Question 7: Health Expenditure, HIV Incidence rates difference across income groups comparing 2005-2013 to 2014-2022 across 12 countries (excluding Canada and France) 
+
+Question 8: Income Levels impact on raised BP rates and Obesity Rates from 1992-2022 across 12 countires 
 
 
 

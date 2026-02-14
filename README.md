@@ -59,7 +59,7 @@ a.	Prediction: I believe there is a slight negative correlation between a nation
 4. Nigeria only has reported college enrollment data for 2005,2010, and 2011
 5. Canada and France are excluded from HIV Incidence rates questions. As there was no HIV Incidence rates data available for Canada and France 
 
-### Excel Results of Each of the Questions 
+## Excel Results of Each of the Questions 
 
 Question 1: College Enrollment Rates and Obesity Rates from 1992-2022 across 12 countires
 
@@ -247,7 +247,7 @@ Question 8: Income Levels impact on raised BP rates and Obesity Rates from 1992-
 
 
 
-### Here's my visualizations for The Cost of Inequality: Connection between socioeconomic status and healthcare outcomes for 12 countries.
+## Here's my Data Visualizations for The Cost of Inequality: Connection between socioeconomic status and healthcare outcomes for 12 countries.
 
 **Country Identifier Legend for the HIV Incidence Rates, health expenditure %, and income levels**
 ![Country Code Identifier as Country Names](https://github.com/user-attachments/assets/6c9bce1a-5185-4b37-a63d-88312ec83d7a)
